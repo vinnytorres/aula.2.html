@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(180, 176, 176);
+    margin: 0 auto;
+}
+
+#navbar {
+    width: 100%;
+    height: 75px;
+    background-color: lightgray;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+#CaixaUm {
+    background-color: purple;
+    width: 300px;
+    height: 300px;
+}
+
+#CaixaDois {
+    background-color: salmon;
+    width: 300px;
+    height: 300px;
+
+}
