@@ -11,6 +11,9 @@ body {
 
 ul {
     list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding-top: ;
 }
 
 li {
